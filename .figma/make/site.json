@@ -1,0 +1,11 @@
+{
+  "title": "Restyling & mapping of orphan functions",
+  "description": "Enhance your Chromecast experience with a sleek, modern UI that connects all functionalities, ensuring intuitive access and informative interactions.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
